@@ -1,0 +1,21 @@
+packages/alchemy/src/GitHub/Repository.ts
+  s_e3813a3fca3e46::t_787dc88281cc2b 317-334
+  s_e3813a3fca3e46::t_417d6a6488eda1 238-251
+  s_e3813a3fca3e46::t_9dc0f810d93563 266-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "79d04df614f8bfcf91a9fd2caf91528125d5e92f",
+  "prompts": {},
+  "sessions": {
+    "s_e3813a3fca3e46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9553c37d-34b4-4ff5-88c7-5e4f6f1d9681",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Justin Bennett <git@just-be.dev>"
+    }
+  }
+}
